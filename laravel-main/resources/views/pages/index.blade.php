@@ -1,6 +1,7 @@
 @extends('layouts.main-layout')
 
 @section('content')
+<<<<<<< HEAD
   <main>
     <h2>
       PROVA
@@ -14,6 +15,6 @@
           Giovanni test
         </li>
 
-        </ul>
+      </ul>
     </main>
 @endsection
